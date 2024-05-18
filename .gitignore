@@ -1,0 +1,14 @@
+# Ignore environment files
+.env
+
+# Ignore credentials file
+credentials.json
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore package-lock.json files
+**/package-lock.json
